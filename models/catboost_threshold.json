@@ -1,0 +1,5 @@
+{
+    "model": "CatBoost",
+    "threshold": 0.44,
+    "validation_accuracy": 0.868125
+}

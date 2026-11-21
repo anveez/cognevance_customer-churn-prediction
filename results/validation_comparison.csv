@@ -1,0 +1,6 @@
+Model,Validation F1,Threshold
+Random Forest,0.6329866270430906,0.32
+XGBoost,0.631578947368421,0.66
+Gradient Boosting,0.6308139534883721,0.26
+Decision Tree,0.486404833836858,0.2
+Logistic Regression,0.48592592592592593,0.3

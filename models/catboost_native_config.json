@@ -1,0 +1,16 @@
+{
+    "model": "CatBoost Native Features",
+    "threshold": 0.37,
+    "validation_auc": 0.8704649863720855,
+    "parameters": {
+        "depth": 6,
+        "learning_rate": 0.05,
+        "l2_leaf_reg": 5
+    },
+    "categorical_features": [
+        "Geography",
+        "Gender",
+        "AgeGroup",
+        "TenureGroup"
+    ]
+}
